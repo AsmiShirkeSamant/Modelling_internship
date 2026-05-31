@@ -46,10 +46,10 @@ The pipeline has evolved from a simple notebook baseline into a comprehensive mu
 ---
 
 ## Visualizations Generated (Available in Current Directory)
-* output_1.png: Feature Distribution Histograms: Visualizes the spread and count ranges of the individual flower measurements.
-* output_2.png: Relational Feature Scatterplot: Compares two continuous variables head-to-head to check for initial class clusters.
-* output_3.png: Heuristic Manual Line Split: Displays the hard-coded decision threshold line used to separate the easiest flower group.
-* output_4.png: Model Prediction Scatter Matrix: Maps out exactly where the trained model drew its final multi-class decision boundaries.
-* output_5.png: Multi-Model Confusion Matrices: Grid of heatmap plots showing the exact true vs. predicted counts for all 7 tested algorithms.
-* output_6.png: Model Final Performance Comparison: A clean leaderboard bar chart ranking the 7 pipelines by their ultimate testing accuracy.
-* output_7.png: Streamlit Interface Demo Screenshot: Displays the layout of the interactive slider system and the live inference result box.
+* output_1.png: Feature Distribution Histograms
+* output_2.png: Feature comparision Pairplot
+* output_3.png: Model comparision on accuracy histogram
+* output_4.png: Confusion matrices for all models
+* output_5.png: Per-Class F1 score by Model
+* output_6.png: Random Forest Feature Importance Comparison
+* output_7.png: Cross Validation Accuracy comparison
